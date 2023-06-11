@@ -1,0 +1,35 @@
+
+
+html, body {
+  font-family: Calibri, 'Trebuchet MS', sans-serif;
+  background: linear-gradient(180deg, #be84f5, #ba7ac7,  #a789a7);
+  }/*Layout of the page*/
+
+
+div1 {
+  background: linear-gradient(180deg, #be84f5, #ba7ac7,  #a789a7);
+  
+
+ 
+}
+
+
+  #p1 {
+    text-align: center;
+  }/*assigned paragraph to p1 so we can center*/
+  
+  h1, h2 {
+    text-align: center;
+    border:#000000;
+    margin: 4rem auto 1rem auto;
+  }/*both header 1 and 2 not 3 because we dont want to change its position */
+  
+  img {
+float: inline-end;
+  }/*All images are inline-end*/
+
+
+
+
+
+/*Header 3 wasnt adjusted because postioning was good HTML already changed the font anyways*/
